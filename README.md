@@ -1,5 +1,5 @@
 # Django-Agenda
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/candidovitor/Pokedex/blob/main/LICENSE)
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/candidovitor/Django-Agenda/blob/main/LICENSE)
 
 # About project
 Tis project is a schedule an was developed using Python and Django as a framework. The propouse of this project is use a new framework the create a project
